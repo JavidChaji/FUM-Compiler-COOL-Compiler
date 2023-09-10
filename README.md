@@ -21,9 +21,9 @@ Ferdowsi University of Mashhad Compiler Classroom Object Oriented Language (COOL
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Compiler-COOL-Compiler.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/graphs/contributors
+[contributors-url]: https://github.com/javidchaji/FUM-Compiler-COOL-Compiler/graphs/contributors
 
 <!-- Forks -->
 [forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
