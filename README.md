@@ -32,9 +32,9 @@ Ferdowsi University of Mashhad Compiler Classroom Object Oriented Language (COOL
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Compiler-COOL-Compiler.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Compiler-COOL-Compiler/stargazers
 
 
 <!-- Issues -->
