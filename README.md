@@ -51,14 +51,7 @@ Ferdowsi University of Mashhad Compiler Classroom Object Oriented Language (COOL
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Java][Java.com]][Java-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -164,3 +157,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
+
+
+[Java.com]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white
+[Java-url]: https://www.java.com
