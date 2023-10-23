@@ -51,7 +51,7 @@ Ferdowsi University of Mashhad Compiler Classroom Object Oriented Language (COOL
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Java][Java.com]][Java-url]
+* [![OpenJDK][OpenJDK-Shield]][OpenJDK-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,5 +159,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[Java.com]: https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white
-[Java-url]: https://www.java.com
+[OpenJDK-Shield]: https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+[OpenJDK-url]: https://openjdk.org/
